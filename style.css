@@ -1,8 +1,3 @@
-* {
-    /* height & width now includes border & padding */
-    box-sizing: border-box;
-  }
-  
 @font-face {
     font-family: FastFuriousFont;
     src: url(Antique-Olive-Std-Nord-Italic.ttf);
@@ -16,10 +11,6 @@ body {
   padding: 2rem;
   display: flexbox;
 }
-
-/* section {
-    display: flex;
-  } */
 
 header {
   text-align: center;
